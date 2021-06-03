@@ -1,1 +1,16 @@
-
+<style>
+  table,tr{
+    border: 2px solid black;
+    text-align: center;
+  }
+  th{
+    border: 2px solid black;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+  }
+td{
+   border: 2px solid black;
+    text-align: center;
+   }
+</style>
